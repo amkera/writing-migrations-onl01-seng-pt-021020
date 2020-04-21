@@ -7,4 +7,6 @@ class CreateStudents < ActiveRecord::Migration[5.2]
   end
 end 
 
-#We cannot add columns to this existing file. We need to create a new file. See file 02
+#We cannot add columns to this existing file. We need to create a new file. See file 02_add_grade_and_birthdate_to_students.rb
+
+
