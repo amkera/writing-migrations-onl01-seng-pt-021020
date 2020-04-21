@@ -1,1 +1,1 @@
-class 
+class ChangeDatatypeForBirthdate < ActiveRecord::Migration[]
